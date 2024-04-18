@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-16/",
+    "build": "vite build --base=/html_106_Nadiia-Yuce/",
     "preview": "vite preview"
   },
   "devDependencies": {
